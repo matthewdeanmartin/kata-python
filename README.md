@@ -15,17 +15,30 @@ If use in an interview, or as a "homework question", in my opinion, the demonstr
 3. Aptitude. If you can solve a simple question, no one knows if you are a good programmer. If you can't solve
 4. Proxy for a portfolio. Developers best code is probably locked behind non-disclosure agreements of various sorts and even if it wasn't, it sometimes so domain specific, large and mixed with other developers work that it is hard for an intervier to see what is going on.
 
+See [scoring](scoring.MD) for how a kata can be graded.
+
 ### Layout
 The kata folder holds the blanks with some boiler plate filled in.
 
 The kata_functional, kata_oop, kata_script are for kata problems to be solved with a particular programming style.
 
-The solve folder has
+The solved folder has all the above solved. Except the ones I haven't gotten to yet.
 
-### Workflow
+
+### Kata Solving Workflow
+If you want to do a kata, fork, clone and fill out the blanks in kata, kata_functiona, etc.
+
+Run run_tests.sh to execute the tests. Initially they will pass, but that won't mean anything since the code under test
+is just place holder code.
+
+I've started a [syntax cheat sheet](SYNTAX_CHEAT_SHEET.MD) for looking up basic language questions. If you are doing
+an open book, open internet or doing the kata after consoluting a solved solution-- that will depend on what your 
+motivations are. If you are practicing for whiteboarding, you won't have the internet handy.
+
+### Kata Design Workflow
 I'm solving the problems first, then I copy the skeleton to the corresponding root folders.
 
-If you want to do a kata, branch and fill out the blanks.  If you want to fix bugs in my kata code, branch and modify the /solved/ folder and make pull requests.
+If you want to fix bugs in my kata code, branch and modify the /solved/ folder and make pull requests.
 
 ### Python Interpretor, Libraries
 I'm planning to write this in python 3 with some effort to make it python 3 compatible.
