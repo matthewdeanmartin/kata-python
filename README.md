@@ -5,7 +5,8 @@ you can write over and over.
 ###  Origin
 Most of these are inspired by an ancient book [BASIC is Fun](https://www.amazon.com/Basic-Fun-Computer-Problems-Children/dp/0380806061), which was a bunch of programs you could type and run on an 8 bit machine and as a by product maybe learn to write code. In retrospect, this was pretty crazy, since most of these are about as difficult as fizz-buzz, [which as we know some people can't solve](https://en.wikipedia.org/wiki/Fizz_buzz). I've been wanting to translate the code into a modern programing language since forever. Most of the problems were algebra story problems. The solved section isn't a translation of the original, coding styles are so radically different little would be salvagable from the original.
 
-These questions are far easier than [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=JV9XCVQ6A174G137R2W2).
+These questions are far easier than [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=JV9XCVQ6A174G137R2W2). This set of problems isn't intended to work out if you've recently graduated from a CompSci program and still remember
+your algorithms and data structures classes.
 
 ### As Interview Questions
 If use in an interview, or as a "homework question", in my opinion, the demonstrate:
