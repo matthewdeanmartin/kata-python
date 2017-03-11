@@ -23,99 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7940291b-b206-4fbb-bd70-33291304098d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/build_it/README.MD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/build_it/build.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/build_it/build_with_py.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/build_it/setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/build_it/src/hello/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/build_it/src/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/conversation_tree/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/count_by/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/descendents/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/descendents/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/formulae/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/formulae/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/formulae/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/full_name/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/full_name/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/limerick_template/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/limerick_template/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/math_quiz/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/math_quiz/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/never_lose/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/never_lose/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/random_walk/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/random_walk/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/random_walk/build.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/random_walk/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/random_walk/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/rhymes_with/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/rhymes_with/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/sea_battle/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/sea_battle/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/simple_savings/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/spelling_game/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/spelling_game/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/split_bill/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/split_bill/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata/text_adventure/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kata_script/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run_tests.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/build_it/README.MD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/build_it/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/build_it/build.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/build_it/build_with_py.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/build_it/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/build_it/setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/build_it/src/hello/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/build_it/src/hello/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/build_it/src/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/conversation_tree/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/conversation_tree/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/count_by/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/count_by/counter_class.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/count_by/counter_class_tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/count_by/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/count_by/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/descendents/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/descendents/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/formulae/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/full_name/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/full_name/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/life_ring/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/life_ring/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/life_ring/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/life_ring/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/limerick_template/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/limerick_template/limerick.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/math_quiz/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/math_quiz/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/never_lose/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/never_lose/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/random_walk/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/random_walk/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/random_walk/build.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/random_walk/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/random_walk/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/rhymes_with/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/rhymes_with/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/sea_battle/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/sea_battle/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/simple_savings/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/simple_savings/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/simple_savings/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/spelling_game/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/spelling_game/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/split_bill/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/split_bill/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/text_adventure/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata/text_adventure/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata_functional/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata_oop/README.MD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata_oop/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solved/kata_script/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -157,7 +66,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="run_tests.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="run_tests.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/run_tests.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -171,8 +80,41 @@
         <entry file="file://$PROJECT_DIR$/scoring.MD">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="473">
+              <first_editor relative-caret-position="810">
                 <caret line="49" column="69" lean-forward="true" selection-start-line="49" selection-start-column="69" selection-end-line="49" selection-end-column="69" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LICENSE">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="75">
+                <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -195,7 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/kata/build_it/src/test.py" />
         <option value="$PROJECT_DIR$/kata/build_it/build_with_py.py" />
         <option value="$PROJECT_DIR$/kata/build_it/build.sh" />
         <option value="$PROJECT_DIR$/kata/limerick_template/__main__.py" />
@@ -246,6 +187,7 @@
         <option value="$PROJECT_DIR$/build.py" />
         <option value="$PROJECT_DIR$/scoring.MD" />
         <option value="$PROJECT_DIR$/run_all.sh" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -716,16 +658,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="3360" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38617885" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38617885" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32723576" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14323749" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47357723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14323749" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -754,30 +696,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kata/full_name/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kata/life_ring/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kata/limerick_template/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kata/random_walk/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1138,17 +1056,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scoring.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="473">
-            <caret line="49" column="69" lean-forward="true" selection-start-line="49" selection-start-column="69" selection-end-line="49" selection-end-column="69" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SYNTAX_CHEAT_SHEET.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1165,6 +1072,44 @@
         <state relative-caret-position="15">
           <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scoring.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="810">
+            <caret line="49" column="69" lean-forward="true" selection-start-line="49" selection-start-column="69" selection-end-line="49" selection-end-column="69" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

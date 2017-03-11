@@ -3,9 +3,9 @@ Python 3 Syntax Cheat Sheet
 
 Literals, Variable Declaration and Assignment
 ----
-x = 1 # assign int 1 to x
-x = 1.0 # assign float 1 to x
-x = "a" # assign string "a" to x
+    x = 1 # assign int 1 to x
+    x = 1.0 # assign float 1 to x
+    x = "a" # assign string "a" to x
 
 Function
 ----
