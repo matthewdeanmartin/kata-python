@@ -10,19 +10,21 @@ Feature sets should progress along this order:
 - Algorithms take steps to reduce computation time (For real life code, these kata are too simple to call for performance optimization!)
 
 
-Level 1
+Level 1- Scripting
 -------
 Nothing parameterized, no functions, no containers.
 
 Tests demonstrate that code runs and throws no errors
 
-Level 2
+Level 2- "Modular"
 -------
-At least one container (other than the file), some things parameterized.
+At least one container (other than the file), some things parameterized. In otherwords code is broken into functions with argument that have return values. When there are large numbers of functions, they are split across files (modules), when there are
+large numbers of files, they are split across related folders (submodules)
 
-Functions called and something is asserted
+Has unit tests to exercise functions and something is asserted (except for the main() or run() function)
 
-Level 3
+
+Level 3- OOP, Functional, or other higher level style.
 -------
 OOP or functional programming. Everything parameterized, classes are general, generic code separated from the domain specific code.
 
