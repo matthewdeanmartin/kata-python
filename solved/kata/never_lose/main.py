@@ -4,6 +4,59 @@ How much do you win if you never lose a bet?
 How to detect if someone is winning all the
 bets so you can throw them out of the casino?
 """
+#
+#
+# THIS IS A SOLVED SOLUTION. DON'T EDIT.
+#
+# If this is an interview, don't read this until you've solved your version.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 import random
 
 

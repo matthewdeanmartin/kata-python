@@ -8,7 +8,59 @@ On average how long will it take to get back to the starting point?
 
 How often does it fail to return to the starting point after x iterations?
 """
-
+#
+#
+# THIS IS A SOLVED SOLUTION. DON'T EDIT.
+#
+# If this is an interview, don't read this until you've solved your version.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 import random
 import pprint
 

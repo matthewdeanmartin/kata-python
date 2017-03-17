@@ -12,7 +12,59 @@ Goals:
 
 User enters coordinate and finds out if they hit a ship and sank it.
 """
-
+#
+#
+# THIS IS A SOLVED SOLUTION. DON'T EDIT.
+#
+# If this is an interview, don't read this until you've solved your version.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 # level 1
 def run():
     ocean = [[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]

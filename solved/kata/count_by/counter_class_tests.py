@@ -1,7 +1,59 @@
 # coding=utf-8
 """
 Write the class that makes these tests pass or consider this a solved example of how to write tests.
-"""
+"""#
+#
+# THIS IS A SOLVED SOLUTION. DON'T EDIT.
+#
+# If this is an interview, don't read this until you've solved your version.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 import unittest
 from .counter_class import Counter
 

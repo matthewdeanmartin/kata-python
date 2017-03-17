@@ -13,3 +13,56 @@ Calculate weight on planet X given gravity ratio and your weight.
 
 Feature set 1 -  
 """
+#
+#
+# THIS IS A SOLVED SOLUTION. DON'T EDIT.
+#
+# If this is an interview, don't read this until you've solved your version.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#

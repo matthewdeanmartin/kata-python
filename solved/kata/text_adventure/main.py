@@ -1,3 +1,4 @@
+# coding=utf-8
 """
 Create a text adventure map with three rooms.
 
@@ -9,7 +10,59 @@ Prevent attempting to leave a room by an impossible route.
 
 There are many ways to implement this.
 """
-
+#
+#
+# THIS IS A SOLVED SOLUTION. DON'T EDIT.
+#
+# If this is an interview, don't read this until you've solved your version.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 import collections
 
 

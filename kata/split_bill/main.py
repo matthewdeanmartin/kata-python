@@ -1,3 +1,4 @@
+# coding=utf-8
 """
 Assuming known meal prices for 2 or more people, and a 15% tip, split a check:
 
