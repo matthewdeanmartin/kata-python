@@ -1,6 +1,12 @@
 # coding=utf-8
 """
 How long will it take to save up to buy a bike?
+
+Money is earned every two weeks.
+Savings per paycheck is a constant percentage.
+How many months will it take?
+
+How many months will it take if interest is earned at 10% a annualized rate?
 """
 #
 #

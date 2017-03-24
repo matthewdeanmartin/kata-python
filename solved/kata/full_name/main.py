@@ -8,13 +8,18 @@ surname
 fathers name
 gender
 
-Write name
+Write name, for example with
+given name= Matthew
+middle name= Dean
+surname= Martin
+fathers name= Bud
+gender= Male
 
 in Japanese Order Martin D Matthew
 in Western Order Matthew D Martin
-in Icelandic style Matthew Budsson
+in Icelandic style Matthew Budsson,
 
-
+A hypothetical Icelandi woman's name would be Jane Budsdottir
 """
 
 #

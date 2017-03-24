@@ -8,9 +8,9 @@ On average how long will it take to get back to the starting point?
 
 How often does it fail to return to the starting point after x iterations?
 """
-from __future__ import print_function
-from __future__ import unicode_literals
-
+from __future__ import print_function, unicode_literals, division
+import logging
+logging.basicConfig(filename='log.txt',level=logging.DEBUG)
 
 def run():
     """

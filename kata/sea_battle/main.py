@@ -14,6 +14,8 @@ User enters coordinate and finds out if they hit a ship and sank it.
 """
 
 from __future__ import print_function, unicode_literals
+import logging
+logging.basicConfig(filename='log.txt',level=logging.DEBUG)
 
 def run():
     pass

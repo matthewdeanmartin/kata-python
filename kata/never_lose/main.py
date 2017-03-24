@@ -6,6 +6,8 @@ How to detect if someone is winning all the
 bets so you can throw them out of the casino?
 """
 from __future__ import print_function, unicode_literals
+import logging
+logging.basicConfig(filename='log.txt',level=logging.DEBUG)
 
 
 def run():

@@ -90,3 +90,7 @@ ENV/
 
 ##pycharm
 .idea
+libs/
+
+# ignore log files.
+log.txt

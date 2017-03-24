@@ -1,5 +1,12 @@
-"""
+# coding=utf-8
+""""
 Count by n.
+
+Print to the screen numbers 1, 2, 3, but also 2, 4, 6 (counting by 2), etc.
+
+Be explicit about when the code should start and stop counting.
+
+Make memory efficient if possible.
 """
 #
 #
@@ -55,6 +62,8 @@ Count by n.
 #
 #
 
+import logging
+logging.basicConfig(filename='log.txt',level=logging.DEBUG)
 
 def run():
     counter(10)

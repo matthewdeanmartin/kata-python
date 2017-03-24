@@ -17,6 +17,8 @@ clues.
 
 """
 from __future__ import print_function, unicode_literals
+import logging
+logging.basicConfig(filename='log.txt',level=logging.DEBUG)
 
 
 def run():

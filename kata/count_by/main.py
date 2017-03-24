@@ -9,6 +9,8 @@ Be explicit about when the code should start and stop counting.
 Make memory efficient if possible.
 """
 from __future__ import print_function, unicode_literals
+import logging
+logging.basicConfig(filename='log.txt',level=logging.DEBUG)
 
 
 def run():

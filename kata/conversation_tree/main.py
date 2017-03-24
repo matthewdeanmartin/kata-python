@@ -19,10 +19,12 @@ U:Hello ->
                 U1: No, at at all.
                 U2: You got that right
 
-Level 1 - data is mixed with code
-Level 2 - data is neatly segregated from code.
-Level 3 - re-use paths, e.g. if another part of a tree has "I'm fine" then transition to that node.
+OK - data is mixed with code
+Better - data is neatly segregated from code.
+Best - re-use paths, e.g. if another part of a tree has "I'm fine" then transition to that node.
 """
+import logging
+logging.basicConfig(filename='log.txt',level=logging.DEBUG)
 
 def run():
     pass
