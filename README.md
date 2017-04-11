@@ -40,8 +40,8 @@ The solved folder has all the above solved. Except the ones I haven't gotten to 
 You can make these as easy or as hard as you want, I recommend over-engineering the solution, but not so much that you can't finish it.
 
 Easy
-- [kata/count_by/main.py](count by)
-- [kata/formulae/main.py](formulae)
+- [count by](python-kata/blob/master/kata/count_by/main.py)
+- [formulae](python-kata/blob/master/kata/formulae/main.py)
 - full name
 - limerick template
 - math quiz
