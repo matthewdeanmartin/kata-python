@@ -14,7 +14,7 @@ If use in an interview, or as a take home question, in my opinion, solving these
 1. __Speed__. Can you solve it quickly.
 2. __An ability to discuss code__. Now that we have some real code, you can discuss specifications, design and algorithm chioces with the interviewer.
 3. __Aptitude__. If you can solve a simple question, no one knows if you are a good programmer. If you can't solve a simple question, it may be a bad sign. 
-4. __Proxy for a portfolio__. If you know you interview poorly and can't write code with an audience, then it is imperative to do something else to demonstrate you can write code, such as putting together a portfolio of code samples that an interviewer can look and understand quickly. Developers best code is probably locked behind non-disclosure agreements of various sorts and even if it wasn't, it sometimes so domain specific, large and mixed with other developers work that it is hard for an intervier to see what is going on.
+4. __Proxy for a portfolio__. If you know you interview poorly and can't write code with an audience, then it is imperative to do something else to demonstrate you can write code, such as putting together a portfolio of code samples that an interviewer can look and understand quickly. Developers' best code is probably locked behind non-disclosure agreements of various sorts and even if it wasn't, it sometimes so domain specific, large and mixed with other developers work that it is hard for an intervier to see what is going on.
 
 See [scoring](scoring.MD) for how a kata can be graded.
 
@@ -22,8 +22,9 @@ See [scoring](scoring.MD) for how a kata can be graded.
 ### Kata Solving Workflow
 If you want to do a kata, fork, clone and fill out the blanks in kata, kata_functiona, etc.
 
-Run run_tests.sh to execute the tests. Initially they will pass, but that won't mean anything since the code under test
-is just place holder code.
+Run [run_tests.sh](run_tests.sh) to execute the tests. Initially they will pass, but that won't mean anything since the code under test
+is just place holder code. If your apps use a lot of blocking input, you may need to update your unit tests to only call the functions
+without blocking input commands.
 
 I've started a [syntax cheat sheet](SYNTAX_CHEAT_SHEET.MD) for looking up basic language questions. If you are doing
 an open book, open internet or doing the kata after consoluting a solved solution-- that will depend on what your 
@@ -35,6 +36,32 @@ The kata folder holds the blanks with some boiler plate filled in. If you are so
 The kata_functional, kata_oop, kata_script are for kata problems to be solved with a particular programming style.
 
 The solved folder has all the above solved. Except the ones I haven't gotten to yet. This is where you go to cheat or compare your code after you've already solved it.
+
+You can make these as easy or as hard as you want, I recommend over-engineering the solution, but not so much that you can't finish it.
+
+Easy
+- [kata/count_by/main.py](count by)
+- [kata/formulae/main.py](formulae)
+- full name
+- limerick template
+- math quiz
+- never lose
+- simple savings
+- spelling game
+- never lose
+
+Medium
+- random walk
+- conversation tree
+- spelling game
+- rhymes with
+- descendents. This is just a generalization of the Fibonacci question.
+
+Harder
+- build it. This is an odd one out because a build script calls for a different knowledge base from writing a function.
+- text adventure
+- sea battle
+- life ring
 
 #### Elements of the template
 - Common futures imports. Remove some friction by writing python 2/3 compatible code, at least for the easy things, like 
