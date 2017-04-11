@@ -16,14 +16,26 @@ and gets clues from the environment, such as "too high/too low", "found/not foun
 clues.
 
 """
-from __future__ import print_function, unicode_literals
-import logging
-logging.basicConfig(filename='log.txt',level=logging.DEBUG)
+from __future__ import print_function, unicode_literals, absolute_import
 
+# configure logging for file and console output.
+import logging
+import os.path
+if os.path.isfile("log.txt"):
+    os.remove("log.txt")
+logging.basicConfig(filename='log.txt',level=logging.DEBUG)
+logging.getLogger().addHandler(logging.StreamHandler())
 
 def run():
+    """
+    Main entry point for your application.  
+    """
     pass
 
+# the functions/classes you write here should have no print or input statements.
 
 if __name__ == "__main__" or __name__ == "builtins":
+    # Need an environment to run this?
+    # https://repl.it/languages/python3
+    logging.info("The application is starting.")
     run()
