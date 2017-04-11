@@ -40,28 +40,29 @@ The solved folder has all the above solved. Except the ones I haven't gotten to 
 You can make these as easy or as hard as you want, I recommend over-engineering the solution, but not so much that you can't finish it.
 
 Easy
-- [count by](python-kata/blob/master/kata/count_by/main.py)
-- [formulae](python-kata/blob/master/kata/formulae/main.py)
-- full name
-- limerick template
-- math quiz
-- never lose
-- simple savings
-- spelling game
-- never lose
+- [count by](kata-python/blob/master/kata/count_by/main.py)
+- [formulae](kata-python/blob/master/kata/formulae/main.py)
+- [full name](kata-python/blob/master/kata/full_name/main.py)
+- [limerick template](kata-python/blob/master/kata/limerick_template/main.py)
+- [math quiz](kata-python/blob/master/kata/math_quiz/main.py)
+- [never lose](kata-python/blob/master/kata/never_lose/main.py)
+- [simple savings](kata-python/blob/master/kata/simple_savings/main.py)
+- [split bill](kata-python/blob/master/kata/split_bill/main.py)
 
 Medium
-- random walk
-- conversation tree
-- spelling game
-- rhymes with
-- descendents. This is just a generalization of the Fibonacci question.
+- [spelling game](kata-python/blob/master/kata/spelling_game/main.py)
+- [never lose](kata-python/blob/master/kata/never_lose/main.py)
+- [random walk](kata-python/blob/master/kata/random_walk/main.py)
+- [conversation tree](kata-python/blob/master/kata/conversation_tree/main.py)
+- [spelling game](kata-python/blob/master/kata/spelling_game/main.py)
+- [rhymes with](kata-python/blob/master/kata/rhymes_with/main.py)
+- [descendents](kata-python/blob/master/kata/descendents/main.py). This is just a generalization of the Fibonacci question.
 
 Harder
-- build it. This is an odd one out because a build script calls for a different knowledge base from writing a function.
-- text adventure
-- sea battle
-- life ring
+- [build it](kata-python/blob/master/kata/build_it/main.py). This is an odd one out because a build script calls for a different knowledge base from writing a function.
+- [text adventure](kata-python/blob/master/kata/text_adventure/main.py)
+- [sea battle](kata-python/blob/master/kata/sea_battle/main.py)
+- [life ring](kata-python/blob/master/kata/life_ring/main.py)
 
 #### Elements of the template
 - Common futures imports. Remove some friction by writing python 2/3 compatible code, at least for the easy things, like 
