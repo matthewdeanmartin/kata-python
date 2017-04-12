@@ -40,7 +40,7 @@ The solved folder has all the above solved. Except the ones I haven't gotten to 
 You can make these as easy or as hard as you want, I recommend over-engineering the solution, but not so much that you can't finish it.
 
 Easy
-- [count by](kata-python/blob/master/kata/count_by/main.py)
+- [count by](/matthewdeanmartin/kata-python/tree/master/kata/conversation_tree)
 - [formulae](kata-python/blob/master/kata/formulae/main.py)
 - [full name](kata-python/blob/master/kata/full_name/main.py)
 - [limerick template](kata-python/blob/master/kata/limerick_template/main.py)
@@ -54,7 +54,6 @@ Medium
 - [never lose](kata-python/blob/master/kata/never_lose/main.py)
 - [random walk](kata-python/blob/master/kata/random_walk/main.py)
 - [conversation tree](kata-python/blob/master/kata/conversation_tree/main.py)
-- [spelling game](kata-python/blob/master/kata/spelling_game/main.py)
 - [rhymes with](kata-python/blob/master/kata/rhymes_with/main.py)
 - [descendents](kata-python/blob/master/kata/descendents/main.py). This is just a generalization of the Fibonacci question.
 
