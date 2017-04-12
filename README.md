@@ -40,7 +40,7 @@ The solved folder has all the above solved. Except the ones I haven't gotten to 
 You can make these as easy or as hard as you want, I recommend over-engineering the solution, but not so much that you can't finish it.
 
 Easy
-- [count by](/matthewdeanmartin/kata-python/tree/master/kata/conversation_tree)
+- [count by](/kata/count_by)
 - [formulae](kata-python/blob/master/kata/formulae/main.py)
 - [full name](kata-python/blob/master/kata/full_name/main.py)
 - [limerick template](kata-python/blob/master/kata/limerick_template/main.py)
