@@ -89,3 +89,18 @@ Some kata might be solvable with just an online fiddle/REPL, e.g. [repl.it](http
 I'm solving the problems first, then I copy the skeleton to the corresponding root folders.
 
 If you want to fix bugs in my kata code, branch and modify the /solved/ folder and make pull requests.
+
+### Template
+The template has some `__future__` imports to do some minimum py2/py3 compatibility.
+
+I want to discourage people from showing off code with horrible testability because it is peppered with
+`input()` and `print()` calls. What I'd really like to do is allow input() and print() in the run()
+method and disallow it in the supporting functions, but disabling one or the other for the whole file is a reasonable
+compromise.
+
+I also wanted to encourage people to log correctly. Since these are all console applications, the
+expect output and the logging listener are writing to the same place. Proper logging only takes a few lines of code to set up, but is unrelated to demonstrating the skill in question. So I've provided an alternative to mixing logging prints() and application output prints().
+ 
+I want the template to encourage unittesting, so there is a skeleton of a unittest. The each kata is a chance for you to demonstrate the ability to write testable code, the ability to set up a unittest skeleton is a distraction.
+
+Professional code would have code + tests + a build script. Build scripts can be hard enough to write that writing a good build script would use up all the time available for a kata, so there is a stand alone kata for that and a pre-written build script.
