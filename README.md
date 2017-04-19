@@ -58,7 +58,7 @@ Medium
 - [descendents](/kata/descendents/main.py). This is just a generalization of the Fibonacci question.
 
 Harder
-- [build it](/kata/build_it/main.py). This is an odd one out because a build script calls for a different knowledge base from writing a function.
+- [build it](/kata/build_it/build.sh). This is an odd one out because a build script calls for a different knowledge base from writing a function.
 - [text adventure](/kata/text_adventure/main.py)
 - [sea battle](/kata/sea_battle/main.py)
 - [life ring](/kata/life_ring/main.py)
