@@ -40,34 +40,33 @@ The solved folder has all the above solved. Except the ones I haven't gotten to 
 You can make these as easy or as hard as you want, I recommend over-engineering the solution, but not so much that you can't finish it.
 
 Easy
-- [count by](/kata/count_by)
-- [formulae](/kata/formulae/main.py)
-- [full name](/kata/full_name/main.py)
-- [limerick template](/kata/limerick_template/main.py)
-- [math quiz](/kata/math_quiz/main.py)
-- [never lose](/kata/never_lose/main.py)
-- [simple savings](/kata/simple_savings/main.py)
-- [split bill](/kata/split_bill/main.py)
+- [count by](/kata/count_by) Dump numbers to screen by various steps.
+- [formulae](/kata/formulae/main.py) Algebra problems.
+- [full name](/kata/full_name/main.py) String manipulations.
+- [limerick template](/kata/limerick_template/main.py) String templates
+- [math quiz](/kata/math_quiz/main.py) Simple game.
+- [never lose](/kata/never_lose/main.py) Simulate gambling winnings if you never lost.
+- [simple savings](/kata/simple_savings/main.py) Simple algebra.
+- [split bill](/kata/split_bill/main.py) Simple algebra problem.
 
 Medium
-- [spelling game](/kata/spelling_game/main.py)
-- [never lose](/kata/never_lose/main.py)
-- [random walk](/kata/random_walk/main.py)
-- [conversation tree](/kata/conversation_tree/main.py)
-- [rhymes with](/kata/rhymes_with/main.py)
+- [spelling game](/kata/spelling_game/main.py) Removing random letters.
+- [random walk](/kata/random_walk/main.py) Simulate a literal random walk around town.
+- [conversation tree](/kata/conversation_tree/main.py) Simulate a fake conversation as you may have seen in a game like Fallout or Oblivion.
+- [rhymes with](/kata/rhymes_with/main.py) String manipulation.
 - [descendents](/kata/descendents/main.py). This is just a generalization of the Fibonacci question.
 
 Harder
 - [build it](/kata/build_it/build.sh). This is an odd one out because a build script calls for a different knowledge base from writing a function.
-- [text adventure](/kata/text_adventure/main.py)
-- [sea battle](/kata/sea_battle/main.py)
-- [life ring](/kata/life_ring/main.py)
+- [text adventure](/kata/text_adventure/main.py) Implement the navigation subsystem of a text adventure game.
+- [sea battle](/kata/sea_battle/main.py) Implement a tiny battle-ship game.
+- [life ring](/kata/life_ring/main.py) A tiny game that gives you a chance to show various ways to search what could be represented as an array of bits.
 
 #### Elements of the template
 - Common futures imports. Remove some friction by writing python 2/3 compatible code, at least for the easy things, like 
 print, division and unicode literals
 - `__init__` Your sample code is in a module
-- `__module__' This allows the code to be run on python -m module_name
+- `__module__` This allows the code to be run on python -m module_name
 - `if __file__ == '__main__':` This block runs if you execute python main.py
 - There is a minimal logger set up- you don't have to mix developer oriented logging and user oriented output, i.e. make 
 appropriate choices about when to log and when to use print()
